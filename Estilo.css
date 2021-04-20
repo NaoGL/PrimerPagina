@@ -71,6 +71,12 @@
 	top: 50px;
 	font-size: 29px;
 }
+#desapejes{
+	position: absolute;
+	right: 30px;
+	top: 10px;
+	height: 70px;
+}
 body{
 	background: #feffde;
 	color: #557174;
