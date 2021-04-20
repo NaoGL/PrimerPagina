@@ -61,14 +61,14 @@
 }
 #bienvenida{
 	position: absolute;
-	right: 20px;
+	right: 300px;
 	top: 5px;
 	font-size: 29px;
 }
 #materia{
 	position: absolute;
-	right: 1px;
-	top: 20px;
+	right:50px;
+	top: 50px;
 	font-size: 29px;
 }
 body{
