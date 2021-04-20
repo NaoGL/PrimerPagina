@@ -1,0 +1,105 @@
+#General{
+	height: 1100px;
+	width: 900px;
+	margin: auto;	
+}
+#ambientalismo{
+	position: absolute;
+	height: 170px;
+	right: 20px;
+	top: 5px;	
+}
+#movimiento{
+	position: absolute;
+	height: 270px;
+	right: 60px;
+	top: 700px;
+}
+#Ecología{
+	position: absolute;
+	height: 170px;
+	left: 20px;
+	top: 0px;
+}
+#libro{
+	position: absolute;
+	height: 200px;
+	right: 40px;
+	top: 100px;
+}
+#investigacion{
+	height: 300px;
+	top: 700px;
+	position: absolute;
+	right: 40px;
+}
+#cetis62{
+	position: absolute;
+	height: 100px;
+	left: 10px;
+}
+#nao{
+	position: absolute;
+	right: 50px;
+	top: 100px;
+	height: 300px;
+}
+#datos{
+	width: 300px;
+	height: 400px;
+	margin: 1em;
+	background-color: #c7cfb7;
+	border-radius:1em;
+	top: 100px;	
+	margin: auto;
+}
+#cetis{
+	position: absolute;
+	left: 50px;
+	top: 100px;
+	height: 300px;	
+}
+#bienvenida{
+	position: absolute;
+	right: 1px;
+	top: 10px;
+	font-size: 29px;
+}
+body{
+	background: #feffde;
+	color: #557174;
+}
+h1{
+	font-size: 60px;
+	font-family: Avocado Creamy;
+}
+h2{
+	font-family: Calibri;
+	color: #5b6d5b;
+	font-size: 30px;
+}
+p{
+	font-size: 20px;
+}
+ul,ol{
+	font-size: 20px;
+}
+a{
+	font-family: Please write me a song;
+	font-size: 30px;
+	text-decoration:none;
+	margin:5px 5px;
+	display:inline-block;
+	background: #91c788;
+	color:#FFF;
+	padding: 20px 20px;
+	box-shadow: 0px 2px 0px #1D64A6;
+}
+a:hover {
+	box-shadow: 0px 4px 0px #5F9EA0;
+	color: #000;
+	background:#5F9EA0;
+}
+a:active {
+	box-shadow:none;
+}
